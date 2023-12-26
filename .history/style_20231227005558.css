@@ -78,7 +78,7 @@
 .checkbox:checked::before{
     left: 25px;
     background-color: #fff;
-    box-shadow:  0 2px 10px black;
+    box-shadow:  0 2px 30px black;
 }
 
 

@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 20px;
+    background: #000;
+    height: 50px;
+
+}
+
+
+.header__content__navbar__list {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.header__content__navbar__link{
+    color: wheat;
+    text-decoration: none; 
+    padding: 10px;   
+}
+
+.header__content {
+    display: flex;
+    justify-content: end;
+    padding: 15px;
+    gap: 10px;
+}
+
+.checkbox {
+    width: 50px;
+    height: 
+}
+

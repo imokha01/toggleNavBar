@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 20px;
+    background: #000;
+    height: 50px;
+
+}
+
+
+.header__content__navbar__list {
+    display: inline-block;
+    list-style-type: none;
+    float: right
+}
+
+.header__content__navbar__link{
+    color: wheat;
+    text-decoration: none;
+    float: right;
+    margin: auto;
+    padding: 15px
+    
+}
+
